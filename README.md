@@ -1,0 +1,2 @@
+# ClaspWebStormSample
+アドカレ用のサンプルです。
